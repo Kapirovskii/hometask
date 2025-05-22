@@ -1,0 +1,154 @@
+header {
+    background-color: cornflowerblue;
+    color: white;
+    padding: 10px;
+}
+.text1 {
+    margin-left: 80px;
+}
+.text2 {
+    margin-left: 20px;
+}
+.text3 {
+    margin-left: 30px;
+}
+.text4 {
+    margin-left: 750px;
+}
+.text5 {
+    padding: 3px;
+}
+.text7 {
+    padding-left: 50px;
+}
+.text8 {
+    padding-left: 111px;
+}
+.text9 {
+    padding-left: 11px;
+}
+.text10 {
+    padding-left: 55px;
+}
+.text11 {
+    padding-left: 90px;
+}
+.text12 {
+    padding-top: 7px;
+    padding-left: 155px;
+    display: flex;
+    justify-content: flex-start;
+}
+.text13 {
+    padding-top: 5px;
+    padding-left: 50px;
+}
+.text14 {
+    padding-top: 25px;
+    padding-left: 85px;
+}
+.text15 {
+    padding-top: 25px;
+    padding-left: 107px;
+}
+.text16 {
+    padding-top: 25px;
+    padding-left: 102px;
+
+}
+.text17 {
+    padding-top: 25px;
+    padding-left: 95px;
+}
+.text18 {
+    padding-top: 5px;
+    padding-left: 45px;
+}
+.text19 {
+    padding-left: 35px;
+}
+.text20 {
+    padding-top: 10px;
+   margin-left: 15px;
+}
+.text21 {
+    margin-left: 20px;
+}
+
+.center-text {
+    text-align: center;
+    padding: 10px;
+}
+.content {
+    padding-top: 10px;
+    padding-left: 10px;
+    display: flex;
+    justify-content: flex-start;
+}
+.text6{
+    padding-left: 10px;
+}
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+div {
+    margin: 0 auto;
+}
+.menu {
+    display: flex;
+    text-align: left;
+    vertical-align: top;
+    border: 2px solid blue
+}
+
+div {
+    margin: 0 auto;
+}
+.menu2 {
+    border: 2px solid red;
+    padding: 0px 0px 0px 0px;
+}
+
+div {
+    margin: 0 auto;
+}
+.menu3 {
+    display: flex;
+    flex-direction: column;
+    border: 2px solid green;
+    padding: 0px 0px 0px 0px;
+    text-align: start
+}
+.birthday-label {
+    color: darkgray;
+    margin-bottom: 20px; /* регулируйте по необходимости */
+}
+.text23{
+    padding-left: 40px;
+    padding-top: 40px;
+
+}
+.text24{
+    padding-left: 900px;
+}
+.text25{
+    padding-left: 40px;
+    padding-top: 20px;
+}
+.text26{
+
+    padding-left: 4px;
+    padding-top: 15px;
+}
+.text27{
+    padding-left: 1px;
+    padding-top: 5px;
+}
+.text28 {
+    padding-top: 52px;
+    padding-left: 155px;
+    display: flex;
+    justify-content: flex-start;
+}
